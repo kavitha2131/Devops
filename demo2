@@ -1,0 +1,61 @@
+[33mcommit e7aeae16d70c0b3f531c8461d543166f7655830f[m[33m ([m[1;36mHEAD -> [m[1;32msecond[m[33m, [m[1;31morigin/second[m[33m, [m[1;32mfeature[m[33m)[m
+Author: kavitha2131 <gkavitha.msc@gmail.com>
+Date:   Fri Jul 22 07:13:44 2022 +0530
+
+    on feature
+
+[33mcommit 11253fc9e04d427aab90d86c46605858761b0864[m
+Merge: afeb622 416fc69
+Author: kavitha2131 <gkavitha.msc@gmail.com>
+Date:   Fri Jul 22 06:59:52 2022 +0530
+
+    merge resolved
+
+[33mcommit afeb622400d6633d9d30f51fcdd8e94942a67d4f[m
+Author: kavitha2131 <gkavitha.msc@gmail.com>
+Date:   Fri Jul 22 06:57:21 2022 +0530
+
+    developer1 chnages
+
+[33mcommit 416fc6941c17702b632db20194acb24831aac778[m
+Author: kavitha2131 <109639682+kavitha2131@users.noreply.github.com>
+Date:   Fri Jul 22 06:56:15 2022 +0530
+
+    developer2 changes
+
+[33mcommit 39800ab816fd359c32972a6635f565b8d660db44[m
+Merge: e5c2f79 5af5077
+Author: kavitha2131 <gkavitha.msc@gmail.com>
+Date:   Fri Jul 22 06:49:50 2022 +0530
+
+    Merge branch 'main' of https://github.com/kavitha2131/devops
+
+[33mcommit e5c2f792b825ed4c0189ba31b314920ef2df1ec6[m
+Author: kavitha2131 <gkavitha.msc@gmail.com>
+Date:   Fri Jul 22 06:48:14 2022 +0530
+
+    by developer1
+
+[33mcommit 5af50775e5f377808038a291f44f110e20b8eb36[m
+Author: kavitha2131 <109639682+kavitha2131@users.noreply.github.com>
+Date:   Fri Jul 22 06:46:41 2022 +0530
+
+    by developer2
+
+[33mcommit 97cdd8fa07d920171762f27f32b06891f1918a52[m
+Author: kavitha2131 <gkavitha.msc@gmail.com>
+Date:   Fri Jul 22 03:12:16 2022 +0530
+
+    added harshith
+
+[33mcommit b54367494fe49b833a29b06a77b28e9439e8d5a4[m
+Author: kavitha2131 <gkavitha.msc@gmail.com>
+Date:   Fri Jul 22 03:07:43 2022 +0530
+
+    added kavi
+
+[33mcommit 01bc6acb1a5fe8b4cf516a100a285683f71f7542[m
+Author: kavitha2131 <109639682+kavitha2131@users.noreply.github.com>
+Date:   Fri Jul 22 02:34:58 2022 +0530
+
+    Initial commit
